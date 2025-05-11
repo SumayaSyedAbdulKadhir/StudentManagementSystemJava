@@ -1,7 +1,4 @@
 
-
-
-````markdown
 # 🎓 Student Management System (Java Console Application)
 
 A simple Java-based console application for managing student records, built with core OOP concepts. This is a beginner-friendly project ideal for learning Java basics like classes, objects, ArrayLists, and user interaction.
